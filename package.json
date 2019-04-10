@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "landian-website",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Landian Consultancy Website built using Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Aidan McGowran <aidan@landian.io>",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gatsby": "^2.3.15",
@@ -25,7 +25,9 @@
     "prettier": "^1.16.4"
   },
   "keywords": [
-    "gatsby"
+    "landian",
+    "gatsby",
+    "website"
   ],
   "license": "MIT",
   "scripts": {
@@ -38,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/aidan-landian/landian-website"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/aidan-landian/landian-website/issues"
   }
 }
